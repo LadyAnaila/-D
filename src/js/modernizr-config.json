@@ -1,0 +1,18 @@
+{
+  "minify": true,
+  "options": [
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/css/backgroundsize",
+    "test/css/boxshadow",
+    "test/css/boxsizing",
+    "test/css/columns",
+    "test/css/cssgrid",
+    "test/css/flexbox",
+    "test/css/fontface",
+    "test/css/overflow-scrolling",
+    "test/css/remunit",
+    "test/css/valid"
+  ]
+}
